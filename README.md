@@ -1,2 +1,2 @@
 # DHH
-This webpage was created in the spirit of the 90's No build philosophy advocated by David Heinemeier Hansson (aka DHH).
+In the spirit of the 90's No Build philosophy advocated by David Heinemeier Hansson (aka DHH), I show how to make a webpage in the most simplest way without the cumbersome management and maintenance of frameworks, servers, or any other unnecessary dependencies leading to tech debt. There is a place and time for leveraging a JavaScript framework like Angular, React, etc., but this solution shows a very lightweight, elegant, and editable directly in whatever text editor is on hand.
