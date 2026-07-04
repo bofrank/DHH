@@ -67,3 +67,25 @@ Maintain project landing pages that never need a dependency upgrade.
 Teach newcomers the fundamentals of the web before introducing tooling.
 
 The goal is to keep publishing on the web accessible, durable, and understandable—just like it was in the early days of the internet.
+
+## David Heinemeier Hansson (DHH)
+
+### David Heinemeier Hansson (DHH) is a Danish programmer, writer, entrepreneur, and racing driver best known as the creator of the Ruby on Rails web framework and co-owner of the software company 37signals, makers of products like Basecamp and HEY.
+
+### Early life and background
+David Heinemeier Hansson was born on 15 October 1979 in Copenhagen, Denmark, and later studied business administration and computer science at Copenhagen Business School. He immigrated to the United States in 2005 and has since lived there with his wife Jamie and their three children.
+
+### Ruby on Rails and software work
+In 2003, Hansson created Ruby on Rails by extracting a web framework from the codebase of what became Basecamp, emphasizing programmer happiness and concise, expressive code. Ruby on Rails went on to power major applications and companies such as GitHub, Shopify, Airbnb, Square, Coinbase, and many others, helping to popularize Ruby for web development worldwide.
+
+### 37signals, Basecamp, and HEY
+Hansson is co-owner and chief technology officer of 37signals, the company behind Basecamp, HEY, and other web-based software products, which he runs together with Jason Fried. Since its beginnings in 1999, 37signals has been known for advocating a calm, “small is fine” approach to software businesses, focusing on sustainable work and simple, focused products.
+
+### Writing and public voice
+Together with Jason Fried, Hansson has co-authored several influential books, including “Rework,” “Remote: Office Not Required,” and “It Doesn’t Have to Be Crazy at Work,” which argue for unconventional approaches to work, management, and company culture. These books, including “Rework,” have reached bestseller lists such as the New York Times and have been translated widely, making their ideas about simple processes and calm companies accessible to a global audience.
+
+### Racing and life outside code
+Beyond software, Hansson has built a serious career as a racing driver, competing multiple times in the 24 Hours of Le Mans and other endurance series such as the FIA World Endurance Championship and IMSA. He has achieved notable results, including winning his class at Le Mans with Aston Martin in 2014 and standing on the overall podium with Rebellion Racing in 2017, balancing high-level motorsport with his work in technology and his family life.
+
+### The “no build” and simplicity ethos
+Hansson is also known for his outspoken views on software simplicity, arguing that much of the web has not fundamentally changed since the late 1990s and that many modern build tools add unnecessary complexity. His “no-build” stance rejects heavy frontend build pipelines in favor of straightforward, HTML-first, server-rendered applications, aligning with his broader belief that tools should serve clarity, speed, and developer happiness rather than fashion or hype.
